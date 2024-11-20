@@ -7,13 +7,12 @@
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
    </url>
-      <url>
+   <url>
       <loc>https://playpuzzlegames.online/about/index.html</loc>
       <lastmod>2024-11-20</lastmod>
       <changefreq>weekly</changefreq>
    </url>
- </url>
-      <url>
+   <url>
       <loc>https://playpuzzlegames.online/privacy-policy/index.html</loc>
       <lastmod>2024-11-20</lastmod>
       <changefreq>weekly</changefreq>
